@@ -2,7 +2,7 @@
 
 ## Guía turística de Calima El Darién
 
-**Por Diego Cabezas**
+**Por Lu132428**
 
 Proyecto académico de una guía turística digital para conocer Calima El Darién, Valle del Cauca.
 
